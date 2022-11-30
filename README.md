@@ -26,4 +26,15 @@ Realtime Chatting Application using MERN Stack.
 
 ![image](https://user-images.githubusercontent.com/91322195/204874035-4245f044-57e6-474d-ba4d-57690605b235.png)
 
+- Chat page
+
+![image](https://user-images.githubusercontent.com/87016222/204875653-3065bc4f-82e8-4a12-834b-112161298573.png)
+
+![image](https://user-images.githubusercontent.com/87016222/204875714-f1edf4fc-0cba-4723-afce-cde2bbeb884b.png)
+
+- Use Profile Avatar
+
+![image](https://user-images.githubusercontent.com/87016222/204875785-0791bb23-25ca-4387-ae46-7012bc15809c.png)
+
+
 
