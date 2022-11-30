@@ -51,3 +51,5 @@ Realtime Chatting Application using MERN Stack.
 - Mihika - frontend for login sign up chat room group chats and backend for register and login
 - Sai - backend -search user functionality make group add users in group update group name User Chat Message Models and Controllers and routes
 
+
+
