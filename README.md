@@ -36,5 +36,10 @@ Realtime Chatting Application using MERN Stack.
 
 ![image](https://user-images.githubusercontent.com/87016222/204875785-0791bb23-25ca-4387-ae46-7012bc15809c.png)
 
+Contributions:
 
+Shruti- backend for register and login, notifications, real time chatting using socket. io and typing animation
+Mihika - frontend for login sign up chat room group chats and backend for register and login
+Sai - backend -search user functionality make group add users in group update group name
+User Chat Message Models and Controllers and routes
 
