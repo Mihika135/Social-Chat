@@ -22,7 +22,7 @@ Realtime Chatting Application using MERN Stack.
 
 ![image](https://user-images.githubusercontent.com/91322195/204873941-bbd56bd4-f9f3-4c21-aea2-252ce5ace0c0.png)
 
--Login Page
+- Login Page
 
 ![image](https://user-images.githubusercontent.com/91322195/204874035-4245f044-57e6-474d-ba4d-57690605b235.png)
 
