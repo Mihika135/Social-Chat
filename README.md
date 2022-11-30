@@ -5,13 +5,22 @@ Realtime Chatting Application using MERN Stack.
 
 ## Tech Stack Used
 
-- React
-- Express
-- Node.js
-- MongoDB
-- CSS
-- Cloudinary (to store images)
-- Socket.io (for realtime messages)
+- Frontend is built using React, Chakra UI and Material UI
+- Backend using Node.js and Express.js
+- Database -MongoDB Atlas
+- User profile photo is stored in Cloudinary
+- Real time messaging is implemented using Socket.io
+
+## Features
+
+- Register and login.Password is stored in encrypted form in the database hashed using bcrypt
+- Authentication using JWT Tokens
+- Search a User
+- Private Chat
+- Create Group Chat add and remove users and update group name
+- Chats are saved in the database
+- Notification for new messages in private and group chat if the chat is not open when new message is recieved
+
 
 ## Screenshots
 - Home Page
